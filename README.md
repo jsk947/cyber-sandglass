@@ -1,0 +1,1 @@
+The first project in my embedded systems study. Something that pushes me to learn hardware and software together. I used an LED matrix to mimic sand, and an IMU to detect each flip and trigger animation.
